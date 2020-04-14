@@ -1,2 +1,0 @@
-# FetchGitHub
-Created with CodeSandbox
